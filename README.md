@@ -20,17 +20,19 @@ https://www.reddit.com/r/bigquery/wiki/datasets BIG data by google
 
 
 
-### Example Happiness Datasets
-
+### Some Happiness Datasets
 
 ------------------------------------------
 https://data.mendeley.com/datasets/yz4v8tb3tp/5
 
 #### *vision*
 
-A dataset for Smile Detection from Face Images. Dataset needs to be selected from the FLWcrop website and selected according to the information on this page.
+A dataset for smile detection from face images. The dataset needs to be selected from the FLWcrop website as described on this information page.
+
 ------------------------------------------
 https://github.com/taivop/joke-dataset
+
+#### *nlp, language generation*
 
 A database of around 208,000 jokes in English.
 
@@ -38,7 +40,8 @@ A database of around 208,000 jokes in English.
 
 https://www.kaggle.com/unsdsn/world-happiness
 
-Dataset on the UN World Happiness DataSet
+A dataset from the UN World Happiness data.
+
 ------------------------------------------
 
 https://www.kaggle.com/residentmario/wheres-waldo
@@ -60,8 +63,7 @@ More information is available on the HappyDB website (https://rit-public.github.
 
 
 
-
-### Other datasets (Not obviously Happiness related)
+### Other datasets (Not obviously Happiness related but cool....)
 
 
 ------------------------------------------
