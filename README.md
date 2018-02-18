@@ -18,7 +18,51 @@ https://opendata.socrata.com/ clean data
 
 https://www.reddit.com/r/bigquery/wiki/datasets BIG data by google
 
-### Selected dataset
+
+
+### Example Happiness Datasets
+
+
+------------------------------------------
+https://data.mendeley.com/datasets/yz4v8tb3tp/5
+
+#### *vision*
+
+A dataset for Smile Detection from Face Images. Dataset needs to be selected from the FLWcrop website and selected according to the information on this page.
+------------------------------------------
+https://github.com/taivop/joke-dataset
+
+A database of around 208,000 jokes in English.
+
+------------------------------------------
+
+https://www.kaggle.com/unsdsn/world-happiness
+
+Dataset on the UN World Happiness DataSet
+------------------------------------------
+
+https://www.kaggle.com/residentmario/wheres-waldo
+
+#### *vision, image recognition*
+
+Where's Waldo is a popular children's book series where the reader is presented with a sequence of scenes. Each scene contains potentially hundreds of individuals doing different things. Exactly one of these figures is Waldo: a tall man in a striped red shirt, red beanie, and glasses, and the objective of the game is to find Waldo is the least time possible. This dataset is raw data from the books for these challenges.
+
+------------------------------------------
+
+https://www.kaggle.com/ritresearch/happydb
+
+#### *unstructured text nlp*
+
+HappyDB is a corpus of more than 100,000 happy moments crowd-sourced via Amazon’s Mechanical Turk.
+Each worker is given the following task: What made you happy today? Reflect on the past 24 hours, and recall three actual events that happened to you that made you happy. Write down your happy moment in a complete sentence. (Write three such moments.)
+The goal of the corpus is to advance the understanding of the causes of happiness through text-based reflection.
+More information is available on the HappyDB website (https://rit-public.github.io/HappyDB/).
+
+
+
+
+### Other datasets (Not obviously Happiness related)
+
 
 ------------------------------------------
 
@@ -76,28 +120,9 @@ https://www.kaggle.com/kemical/kickstarter-projects
 
 https://www.kaggle.com/codename007/funding-successful-projects
 
-#### *kickstarter, nlp* 
+#### *kickstarter, nlp*
 
 I'm a crowdfunding enthusiast and i'm watching kickstarter since its early days. Right now I just collect data and the only app i've made is this twitter bot which tweet any project reaching some milestone: @bloomwatcher . I have a lot of other ideas, but sadly not enough time to develop them... But I hope you can!
-
-------------------------------------------
-
-https://www.kaggle.com/residentmario/wheres-waldo
-
-#### *vision, image recognition*
-
-Where's Waldo is a popular children's book series where the reader is presented with a sequence of scenes. Each scene contains potentially hundreds of individuals doing different things. Exactly one of these figures is Waldo: a tall man in a striped red shirt, red beanie, and glasses, and the objective of the game is to find Waldo is the least time possible. This dataset is raw data from the books for these challenges.
-
-------------------------------------------
-
-https://www.kaggle.com/ritresearch/happydb
-
-#### *unstructured text nlp*
-
-HappyDB is a corpus of more than 100,000 happy moments crowd-sourced via Amazon’s Mechanical Turk.
-Each worker is given the following task: What made you happy today? Reflect on the past 24 hours, and recall three actual events that happened to you that made you happy. Write down your happy moment in a complete sentence. (Write three such moments.)
-The goal of the corpus is to advance the understanding of the causes of happiness through text-based reflection.
-More information is available on the HappyDB website (https://rit-public.github.io/HappyDB/).
 
 ------------------------------------------
 
@@ -210,4 +235,3 @@ https://www.kaggle.com/gabrio/board-games-dataset
 #### *sales, reviews*
 
 A dataset containing the attributes and the ratings for around 94,000 among board games and expansions as get from BoardGameGeek.
-
