@@ -61,6 +61,80 @@ Each worker is given the following task: What made you happy today? Reflect on t
 The goal of the corpus is to advance the understanding of the causes of happiness through text-based reflection.
 More information is available on the HappyDB website (https://rit-public.github.io/HappyDB/).
 
+------------------------------------------
+
+http://www.sananalytics.com/lab/twitter-sentiment/
+
+#### *sentiment analysis, nlp*
+
+5513 hand-classified tweets. Each tweet was classified with respect to one of four different topics.
+
+------------------------------------------
+
+https://www.researchgate.net/publication/263084553_SenTube_A_Corpus_for_Sentiment_Analysis_on_YouTube_Social_Media
+
+#### *sentiment analysis, video*
+
+A dataset of user-generated comments on YouTube videos annotated for information content and sentiment polarity. It contains annotations that allow to develop classifiers for several important NLP tasks: (i) sentiment analysis, (ii) text categorization (relatedness of a comment to video and/or product), (iii) spam detection, and (iv) prediction of comment informativeness. 
+
+SenTube: A Corpus for Sentiment Analysis on YouTube Social Media (PDF Download Available). Available from: https://www.researchgate.net/publication/263084553_SenTube_A_Corpus_for_Sentiment_Analysis_on_YouTube_Social_Media [accessed Feb 19 2018].
+
+
+### Data sets finding resources:
+
+https://deeplearning4j.org/opendata
+
+https://elitedatascience.com/datasets
+
+https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
+
+https://aws.amazon.com/datasets/  (quality data sets)
+
+https://github.com/fivethirtyeight
+
+https://github.com/BuzzFeedNews
+
+https://opendata.ocrata.com/ clean data
+
+https://www.reddit.com/r/bigquery/wiki/datasets BIG data by google
+
+
+### New To Machine Learning? Where to Begin:
+
+------------------------------------------
+
+https://www.python.org/about/gettingstarted/
+
+Python for beginners
+
+------------------------------------------
+
+https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/
+
+Quickstart guide to Jupyter Notebook
+
+------------------------------------------
+
+
+https://medium.freecodecamp.org/the-hitchhikers-guide-to-machine-learning-algorithms-in-python-bfad66adb378
+
+Hitchhiker's Guide to ML in Python
+
+------------------------------------------
+
+https://github.com/amueller/introduction_to_ml_with_python
+
+Intro to Machine Learning in Python
+
+------------------------------------------
+
+
+http://karpathy.github.io/neuralnets/
+
+Hacker's Guide to Neural Nets by Andrej Karpathy
+
+------------------------------------------
+
 
 
 ### Other datasets (Not obviously Happiness related but cool....)
